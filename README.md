@@ -43,14 +43,12 @@ Aplikasi manajemen tugas sekolah yang membantu kamu mencatat, mengatur, dan meny
 
 <div align="center">
 
-| Warna | Hex | Preview |
-|:---|:---|:---:|
-| Primary Purple | `#9B72CF` | ![#9B72CF](https://via.placeholder.com/80x30/9B72CF/9B72CF) |
-| Primary Light | `#B794E0` | ![#B794E0](https://via.placeholder.com/80x30/B794E0/B794E0) |
-| Accent Pink | `#FF85A2` | ![#FF85A2](https://via.placeholder.com/80x30/FF85A2/FF85A2) |
-| Pink Light | `#FFB3C6` | ![#FFB3C6](https://via.placeholder.com/80x30/FFB3C6/FFB3C6) |
-| Completed | `#5CD6A0` | ![#5CD6A0](https://via.placeholder.com/80x30/5CD6A0/5CD6A0) |
-| Background | `#F8F5FF` | ![#F8F5FF](https://via.placeholder.com/80x30/F8F5FF/F8F5FF) |
+![Primary Purple](https://img.shields.io/badge/Primary_Purple-%239B72CF?style=for-the-badge)
+![Primary Light](https://img.shields.io/badge/Primary_Light-%23B794E0?style=for-the-badge)
+![Accent Pink](https://img.shields.io/badge/Accent_Pink-%23FF85A2?style=for-the-badge)
+![Pink Light](https://img.shields.io/badge/Pink_Light-%23FFB3C6?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-%235CD6A0?style=for-the-badge)
+![Background](https://img.shields.io/badge/Background-%23F8F5FF?style=for-the-badge&labelColor=F8F5FF)
 
 </div>
 
@@ -102,6 +100,14 @@ lib/
 
 <div align="center">
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive_CE-FFB347?style=flat-square)
+![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=flat-square)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
 | Teknologi | Kegunaan |
 |:---|:---|
 | **Flutter** | Framework UI cross-platform |
@@ -109,11 +115,9 @@ lib/
 | **Hive CE** | Penyimpanan data lokal |
 | **Flutter Local Notifications** | Notifikasi pengingat |
 | **Lottie** | Animasi splash screen |
-| **Google Fonts** | Tipografi Poppins |
+| **Google Fonts (Poppins)** | Tipografi |
 | **Table Calendar** | Widget kalender |
 | **Timezone** | Penjadwalan notifikasi |
-
-</div>
 
 ---
 
@@ -155,17 +159,21 @@ flutter build apk --release
 
 ---
 
-## 📋 Fitur Prioritas
+## 📋 Prioritas Tugas
 
 <div align="center">
 
-| Prioritas | Warna | Keterangan |
-|:---:|:---:|:---|
-| 🔴 **Tinggi** | Pink | Tugas mendesak, segera kerjakan |
-| 🟡 **Sedang** | Kuning | Tugas biasa, kerjakan sesuai jadwal |
-| 🔵 **Rendah** | Biru | Tugas santai, bisa dikerjakan nanti |
+![Tinggi](https://img.shields.io/badge/🔴_Tinggi-FF6B8A?style=for-the-badge&logoColor=white)
+![Sedang](https://img.shields.io/badge/🟡_Sedang-FFB347?style=for-the-badge&logoColor=white)
+![Rendah](https://img.shields.io/badge/🔵_Rendah-7EC8E3?style=for-the-badge&logoColor=white)
 
 </div>
+
+| Prioritas | Keterangan |
+|:---:|:---|
+| **Tinggi** | Tugas mendesak, segera kerjakan |
+| **Sedang** | Tugas biasa, kerjakan sesuai jadwal |
+| **Rendah** | Tugas santai, bisa dikerjakan nanti |
 
 ---
 
@@ -195,8 +203,6 @@ Kontribusi sangat diterima! Silakan:
 <div align="center">
 
 ### 💜 Made with love by Alicia Monika 💗
-
-<br/>
 
 *Atur Tugasmu, Raih Prestasimu!*
 
